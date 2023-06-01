@@ -42,7 +42,7 @@ const RegisterForm = ({ onRegister }) => {
           onChange={handleEmailChange}
         />
         <input
-          type="password"
+          type="password"s
           placeholder="Contraseña"
           value={password}
           onChange={handlePasswordChange}
